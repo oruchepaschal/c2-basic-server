@@ -1,4 +1,5 @@
 # udacity-c2-basic-server
+# Exercises from Udacity
 
 This is a simple node-express server to explore and understand the Request-Response pattern.
 
